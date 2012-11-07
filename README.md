@@ -11,9 +11,10 @@
 </ul>
 <h2>Assumptions</h2>
 <ul>
-<li>Raspbian .img written to SD card</li>
+<li>Raspbian .img written to SD card; Raspbian fully configured and running in Raspi.</li>
 <li>Access to internet</li>
 <li>Unzipped script or downloaded script with git clone
+<li>Script executed on Raspi running Raspbian.
 </ul>
 <h2>What it does with all that privelege</h2>
 <ol>
